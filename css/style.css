@@ -231,7 +231,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-image: url(../images/1.jpg);
+    background-image: url(../images/img-01.jpeg);
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -746,7 +746,7 @@ button {
 
 .blog_box {
     width: 100%;
-    background-color: #ffffff;
+    background-color: grey;
     box-shadow: 0px 0px 20px 0px;
     padding: 0px 0px 20px 0px;
     border-bottom-right-radius: 5px;
@@ -755,7 +755,7 @@ button {
 
 .blog_img {
     width: 100%;
-    background-image: url(../images/blog-img1.png);
+    background-image: url(../images/img-12.jpg);
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -763,7 +763,7 @@ button {
 
 .blog_img_2 {
     width: 100%;
-    background-image: url(../images/blog-img2.png);
+    background-image: url(../images/img-13.webp);
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -771,7 +771,7 @@ button {
 
 .blog_img_3 {
     width: 100%;
-    background-image: url(../images/blog-img3.png);
+    background-image: url(../images/img-14.jpg);
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
